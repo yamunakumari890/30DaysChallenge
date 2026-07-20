@@ -1,3 +1,5 @@
+alert("JavaScript Loaded");
+
 document.getElementById("Password").addEventListener("input", function() {
   const password = document.getElementById("Password").value;
   const message = document.getElementById("message");

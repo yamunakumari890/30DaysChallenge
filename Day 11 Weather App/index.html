@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Day 11</title>
+  <link rel="styleSheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌤 Weather App</h1>
+    <input type="text" id="city" name="city" placeholder="Enter city Name">
+  
+    <button onclick="getWeather()">
+      Search
+    </button>
+
+    <div id="result-box" class="result-box" style="display: none;">
+      <h3>Search Results</h3>
+
+      <p id="cityName">City: --</p>
+      <p id="temperature">Temperature --</p>
+      <p id="weather">Weather --</p>
+      <p id="humidity">Humidity --</p>
+      <p id="wind">Wind Speed --</p>
+      
+    </div>
+
+  </div>
+  
+</body>
+<script src="script.js"></script>
+</html>

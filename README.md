@@ -31,7 +31,7 @@ In this challenge, I build one mini web development project every day to improve
 | Day 11 | Weather App | ✅ Completed |
 | Day 12 | Notes App | ✅ Completed |
 | Day 13 | Random Quote Generator | ✅ Completed |
-| Day 14 | Quiz Aoo | ✅ Completed |
+| Day 14 | Quiz App | ✅ Completed |
 
 ---
 

@@ -31,7 +31,10 @@ In this challenge, I build one mini web development project every day to improve
 | Day 11 | Weather App | ✅ Completed |
 | Day 12 | Notes App | ✅ Completed |
 | Day 13 | Random Quote Generator | ✅ Completed |
-| Day 14 | Quiz App | ✅ Completed |
+| Day 14 | Image Slider | ✅ Completed |
+| Day 15 | Quiz App | ✅ Completed |
+| Day 16 | Password Generator | ✅ Completed |
+| Day 17 | Rock Paper Scissors Game | ✅ Completed |
 
 ---
 
@@ -63,10 +66,10 @@ In this challenge, I build one mini web development project every day to improve
 
 ## 🚀 Upcoming Projects
 
-- Day 15
-- Day 16
-- Day 17
 - Day 18
+- Day 19
+- Day 20
+- Day 21
 - ...
 - Day 30
 

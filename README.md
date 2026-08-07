@@ -35,6 +35,7 @@ In this challenge, I build one mini web development project every day to improve
 | Day 15 | Quiz App | ✅ Completed |
 | Day 16 | Password Generator | ✅ Completed |
 | Day 17 | Rock Paper Scissors Game | ✅ Completed |
+| Day 18 | Expense Tracker | ✅ Completed |
 
 ---
 
@@ -66,10 +67,10 @@ In this challenge, I build one mini web development project every day to improve
 
 ## 🚀 Upcoming Projects
 
-- Day 18
 - Day 19
 - Day 20
 - Day 21
+- Day 22
 - ...
 - Day 30
 

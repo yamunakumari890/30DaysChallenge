@@ -1,1 +1,0 @@
-alert("Welcome to Day 1 Challenge!");

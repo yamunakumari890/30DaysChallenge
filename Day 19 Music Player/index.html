@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Day 19</title>
+  <link rel="styleSheet" href="style.css">
+</head>
+<body>
+  <div class="player">
+    <h1>🎵 Music Player</h1>
+
+    <div class="album-art">
+      <img id="albumArt" src="image/images song1.jpg" alt="Album Art">
+    </div>
+    <h2 id="songTitle">Song Title</h2>
+    <p id="artist">Artist Name</p>
+
+    <div class="progress-container">
+      <input type="range" id="progress" value="0" min="0" max="100">
+    </div>
+
+    <div class="controls">
+         <button onclick="previousSong()">
+                ⏮️
+            </button>
+
+            <button onclick="togglePlay()" id="playBtn">
+                ▶️
+            </button>
+
+        <button onclick="nextSong()">⏭️</button>
+
+        <audio id="audio"></audio>
+     
+    </div>
+  </div>
+  
+</body>
+<script src="script.js"></script>
+</html>

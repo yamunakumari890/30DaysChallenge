@@ -36,6 +36,7 @@ In this challenge, I build one mini web development project every day to improve
 | Day 16 | Password Generator | ✅ Completed |
 | Day 17 | Rock Paper Scissors Game | ✅ Completed |
 | Day 18 | Expense Tracker | ✅ Completed |
+| Day 19 | Music Player | ✅ Completed |
 
 ---
 
@@ -67,10 +68,10 @@ In this challenge, I build one mini web development project every day to improve
 
 ## 🚀 Upcoming Projects
 
-- Day 19
 - Day 20
 - Day 21
 - Day 22
+- Day 23
 - ...
 - Day 30
 
